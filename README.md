@@ -1,4 +1,4 @@
-# Jantar-Sevagem
+# Jantar-Selvagem
 
 Linguagem utilizada Java
 
