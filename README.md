@@ -1,2 +1,2 @@
-# jantar-selvagem
+# Jantar-Sevagem
 Linguagem utilizada Java
